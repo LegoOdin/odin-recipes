@@ -1,0 +1,32 @@
+h1 {
+    background-color: aquamarine;
+    color: blueviolet;
+    font-size: 64px;
+    text-align: center;
+    font-family: "Times NEW Roman", serif;
+}
+
+body {
+    background-color: burlywood;
+}
+
+.selection, 
+.return-home {
+    font-size: 32px;
+
+}
+
+
+.selection {
+    background-color: crimson;
+}
+
+.return-home{
+    font-style: italic;
+}
+
+.image {
+    height: auto;
+    width: 500px;
+}
+
